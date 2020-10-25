@@ -1,5 +1,7 @@
 # Projeto Desafio Mobile Ame Digital #
 
+- Apk utilizado: **product_registration.apk**
+
 ### Construção e Execução dos Testes
 
  - Execução do teste pode ser realizadas via suite.xml através do TestNG utilizando uma IDE; ou
